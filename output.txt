@@ -1,141 +1,22 @@
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
-Position: 0	 Speed: 0	 Acceleration: 0
+Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
+Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
+Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
+Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
+Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
+Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
+Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
+Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
+Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
+Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
+Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
+Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
+Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
+Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
+Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
+Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
+Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
+Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
+Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
+Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
+Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
+Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
