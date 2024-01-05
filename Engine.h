@@ -25,8 +25,8 @@ private:
     std::shared_ptr<GearBox> gear1;
     std::shared_ptr<Driver> driver1;
     static bool engine_state;
-    const double drag = 0.957;
-    double max_speed = 300.0;
+    const double drag = 0.25;
+    const double max_speed = 350.0;
 };
 
 #endif // ENGINE_H

@@ -10,7 +10,6 @@
 #include <iomanip>
 #include <algorithm>
 
-
 class Simulation
 {
 public:
@@ -42,6 +41,7 @@ public:
     {
         return *engine;
     }
+
     void display_kinematics() const
     {
         std::ofstream file("output.txt", std::ios::trunc);
@@ -64,17 +64,27 @@ public:
         }
 
     file.close();
-}
-    std::string input;
+    }
+
+    const std::string& get_input() const
+    {
+        return input;
+    }
+    void set_input(const std::string& new_input)
+    {
+        input = new_input;
+    }
+
+    
 private:
+    std::string input;
     std::shared_ptr<Driver> driver;
     std::shared_ptr<Car> car;
     std::shared_ptr<GearBox> gearBox;
     std::shared_ptr<Engine> engine;
     bool sim_state;
-    unsigned int time_step = 500;
+    const int time_step = 500;
 };
-
 
 int main() {
     Simulation sim;
@@ -83,7 +93,18 @@ int main() {
     std::cout << "Turn on the engine by pressing e" << std::endl;
     while (input != "e") {
         std::cin >> input;
+        if(input == "q") return 0;
     }
+    std::cout << "q - quit simulation" << std::endl
+        << "g - press gas pedal" << std::endl
+        << "b - press brake pedal" << std::endl
+        << "rg - release gas pedal" << std::endl
+        << "rb - release brake pedal" << std::endl
+        << "1 - set gear to 1" << std::endl
+        << "2 - set gear to 2" << std::endl
+        << "3 - set gear to 3" << std::endl
+        << "4 - set gear to 4" << std::endl
+        << "5 - set gear to 5" << std::endl;
     std::thread sim_thread;
     try 
     {
@@ -98,26 +119,30 @@ int main() {
 
     while (sim.get_sim_state()) 
     {
-        std::cin >> sim.input;
-        if (sim.input == "q") {
+        std::string user_input;
+        std::cin >> user_input;
+        sim.set_input(user_input);
+
+        if (sim.get_input() == "q") { // Use the getter to access input
             sim.set_sim_state();
-        } else if (sim.input == "g") {
+        } else if (sim.get_input() == "g") {
             sim.get_driver().increment_gas_pedal();
-        } else if (sim.input == "b") {
+        } else if (sim.get_input() == "b") {
             sim.get_driver().increment_brake_pedal();
-        } else if (sim.input == "1") {
+        } else if (sim.get_input() == "1") {
             sim.get_gearBox().set_gear(1);
-        } else if (sim.input == "2") {
+        } else if (sim.get_input() == "2") {
             sim.get_gearBox().set_gear(2);
-        } else if (sim.input == "3") {
+        } else if (sim.get_input() == "3") {
             sim.get_gearBox().set_gear(3);
-        } else if (sim.input == "4") {
+        } else if (sim.get_input() == "4") {
             sim.get_gearBox().set_gear(4);
-        } else if (sim.input == "5") {
+        } else if (sim.get_input() == "5") {
             sim.get_gearBox().set_gear(5);
-        } else {
-            sim.get_driver().zero_brake_pedal();
+        } else if (sim.get_input() == "rg") { // Release gas pedal
             sim.get_driver().zero_gas_pedal();
+        } else if (sim.get_input() == "rb") { // Release brake pedal
+            sim.get_driver().zero_brake_pedal();
         }
     }
         sim_thread.join();

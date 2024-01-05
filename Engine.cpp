@@ -16,12 +16,8 @@ Engine::Engine( const std::shared_ptr<Car>& car,
 
 double Engine::new_speed()
 {
-    double new_speed = (
-    car1->get_speed() 
-    + gear1->get_gear() * driver1->get_gas_pedal() * 0.3
-    - drag * car1->get_speed());
+    double new_speed = (car1->get_speed()+gear1->get_gear()*driver1->get_gas_pedal()-drag*car1->get_speed()-driver1->get_brake_pedal()*0.8);
     new_speed = std::clamp(new_speed, 0.0, max_speed);
-
     return new_speed;
 }
 
