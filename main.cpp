@@ -1,14 +1,11 @@
-#include <SFML/Window/Cursor.hpp>
 #include <fstream>
 #include <iostream>
-#include <memory>
 #include <thread>
 #include "Driver.h"
 #include "Engine.h"
 #include "GearBox.h"
 #include "Car.h"
 #include <iomanip>
-#include <algorithm>
 
 class Simulation
 {
@@ -49,7 +46,7 @@ public:
         {
             const int space = 8;
             file << std::fixed << std::setprecision(2)
-            
+
             << "Position: "     << std::right << std::setw(space) << car->get_position()     << "  |  "
             << "Speed: "        << std::right << std::setw(space) << car->get_speed()        << "  |  "
             << "Acceleration: " << std::right << std::setw(space) << car->get_acceleration() << "  |  "
