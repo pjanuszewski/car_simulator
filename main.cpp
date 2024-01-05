@@ -44,17 +44,17 @@ public:
 
     void display_kinematics() const
     {
-        std::ofstream file("output.txt", std::ios::trunc);
-
+        std::ofstream file("output.log", std::ios::trunc);
         while(sim_state)
         {
-            int space = 8;
+            const int space = 8;
             file << std::fixed << std::setprecision(2)
-                << "Position: "     << std::right << std::setw(space) << car->get_position()     << " | "
-                << "Speed: "        << std::right << std::setw(space) << car->get_speed()        << " | "
-                << "Acceleration: " << std::right << std::setw(space) << car->get_acceleration() << " | "
-                << "RPM: "          << std::right << std::setw(space) << engine->get_rpm()       << " | "
-                << "Gear: "         << std::right << std::setw(3)     << gearBox->get_gear()     << std::endl;
+            
+            << "Position: "     << std::right << std::setw(space) << car->get_position()     << "  |  "
+            << "Speed: "        << std::right << std::setw(space) << car->get_speed()        << "  |  "
+            << "Acceleration: " << std::right << std::setw(space) << car->get_acceleration() << "  |  "
+            << "RPM: "          << std::right << std::setw(space) << engine->get_rpm()       << "  |  "
+            << "Gear: "         << std::right << std::setw(2)     << gearBox->get_gear()     << std::endl;
 
             std::this_thread::sleep_for(std::chrono::milliseconds(time_step));
 
@@ -75,7 +75,6 @@ public:
         input = new_input;
     }
 
-    
 private:
     std::string input;
     std::shared_ptr<Driver> driver;
@@ -86,12 +85,13 @@ private:
     const int time_step = 500;
 };
 
-int main() {
+int main() 
+{
     Simulation sim;
     std::string input;
-    // Start the simulation in a separate thread
     std::cout << "Turn on the engine by pressing e" << std::endl;
-    while (input != "e") {
+    while (input != "e") 
+    {
         std::cin >> input;
         if(input == "q") return 0;
     }
@@ -105,6 +105,8 @@ int main() {
         << "3 - set gear to 3" << std::endl
         << "4 - set gear to 4" << std::endl
         << "5 - set gear to 5" << std::endl;
+    
+    // Start the simulation in a separate thread
     std::thread sim_thread;
     try 
     {
