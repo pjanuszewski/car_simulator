@@ -12,16 +12,16 @@ public:
     Driver();
     void checkGasPedal();
     void checkBrakePedal();
-    std::shared_ptr<double> get_gas_pedal_ptr() const;
-    std::shared_ptr<double> get_brake_pedal_ptr() const;
-    void decrement_gas_pedal();
-    void decrement_brake_pedal();
+    double get_gas_pedal() const;
+    double get_brake_pedal() const;
+    void zero_gas_pedal();
+    void zero_brake_pedal();
     void increment_gas_pedal();
     void increment_brake_pedal();
 
 private:
-    std::shared_ptr<double> gas_pedal;
-    std::shared_ptr<double> brake_pedal;
+    double gas_pedal;
+    double brake_pedal;
 };
 
 #endif // DRIVER_H

@@ -17,7 +17,7 @@ public:
     double get_speed() const;
     double get_acceleration() const;
     void set_position(const unsigned int& time);
-    void set_speed(double& new_speed);
+    void set_speed(const double& new_speed);
     void set_acceleration(const unsigned int& time);
     double get_kinematics() const;
     void update_speed();

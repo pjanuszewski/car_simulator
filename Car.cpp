@@ -27,7 +27,7 @@ void Car::set_position(const unsigned int& time)
     position->emplace_back(get_position() + this->get_speed() * time*0.001);
 }
 
-void Car::set_speed(double& new_speed)
+void Car::set_speed(const double& new_speed)
 {
     speed->emplace_back(new_speed);
 }

@@ -9,7 +9,7 @@ public:
     GearBox();
 
     unsigned int get_gear() const;
-    void set_gear(unsigned int new_gear);
+    void set_gear(const int& new_gear);
     std::shared_ptr<unsigned int> get_gear_ptr() const;
 
 private:

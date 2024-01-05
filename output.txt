@@ -1,22 +1,45 @@
-Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
-Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
-Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
-Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
-Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
-Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
-Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
-Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
-Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
-Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
-Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
-Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
-Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
-Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
-Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
-Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
-Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
-Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
-Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
-Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
-Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
-Position:   0.000    Speed:   0.000    Acceleration:   0.000    RPM:   0.000    Gear:       0
+Position:     0.00 | Speed:     0.00 | Acceleration:     0.00 | RPM:     0.00 | Gear:   0
+Position:     0.00 | Speed:     0.00 | Acceleration:     0.00 | RPM:     0.00 | Gear:   0
+Position:     0.00 | Speed:     0.00 | Acceleration:     0.00 | RPM:     0.00 | Gear:   0
+Position:     0.00 | Speed:     0.00 | Acceleration:     0.00 | RPM:     0.00 | Gear:   0
+Position:     0.00 | Speed:     0.00 | Acceleration:     0.00 | RPM:     0.00 | Gear:   0
+Position:     0.00 | Speed:     0.00 | Acceleration:     0.00 | RPM:     0.00 | Gear:   0
+Position:     0.00 | Speed:     0.00 | Acceleration:     0.00 | RPM:     0.00 | Gear:   1
+Position:     0.00 | Speed:     0.00 | Acceleration:     0.00 | RPM:     0.00 | Gear:   1
+Position:     0.00 | Speed:     0.00 | Acceleration:     0.00 | RPM:     0.00 | Gear:   1
+Position:     0.00 | Speed:     0.00 | Acceleration:     0.00 | RPM:     0.00 | Gear:   1
+Position:     0.00 | Speed:     0.00 | Acceleration:     0.00 | RPM:     0.00 | Gear:   1
+Position:     0.00 | Speed:     0.00 | Acceleration:     0.00 | RPM:     0.00 | Gear:   1
+Position:     0.00 | Speed:     0.00 | Acceleration:     0.00 | RPM:     0.00 | Gear:   1
+Position:     0.00 | Speed:     0.00 | Acceleration:     0.00 | RPM:     0.00 | Gear:   1
+Position:     0.00 | Speed:     0.00 | Acceleration:     0.00 | RPM:     0.00 | Gear:   1
+Position:     0.00 | Speed:     0.00 | Acceleration:     0.00 | RPM:     0.00 | Gear:   3
+Position:     0.00 | Speed:     0.00 | Acceleration:     0.00 | RPM:     0.00 | Gear:   3
+Position:     4.50 | Speed:     9.00 | Acceleration:    18.00 | RPM:   736.36 | Gear:   3
+Position:    13.69 | Speed:    18.39 | Acceleration:    18.77 | RPM:  1504.39 | Gear:   3
+Position:    23.09 | Speed:    18.79 | Acceleration:     0.81 | RPM:  1537.42 | Gear:   3
+Position:    32.49 | Speed:    18.81 | Acceleration:     0.03 | RPM:  1538.84 | Gear:   3
+Position:    41.90 | Speed:    18.81 | Acceleration:     0.00 | RPM:  1538.90 | Gear:   3
+Position:    51.30 | Speed:    18.81 | Acceleration:     0.00 | RPM:  1538.90 | Gear:   3
+Position:    60.71 | Speed:    18.81 | Acceleration:     0.00 | RPM:  1538.90 | Gear:   3
+Position:    70.11 | Speed:    18.81 | Acceleration:     0.00 | RPM:  1538.90 | Gear:   3
+Position:    79.51 | Speed:    18.81 | Acceleration:     0.00 | RPM:  1538.90 | Gear:   3
+Position:    88.92 | Speed:    18.81 | Acceleration:     0.00 | RPM:  1538.90 | Gear:   3
+Position:    98.32 | Speed:    18.81 | Acceleration:     0.00 | RPM:  1538.90 | Gear:   3
+Position:   107.73 | Speed:    18.81 | Acceleration:     0.00 | RPM:  1538.90 | Gear:   3
+Position:   117.13 | Speed:    18.81 | Acceleration:     0.00 | RPM:  1538.90 | Gear:   3
+Position:   126.54 | Speed:    18.81 | Acceleration:     0.00 | RPM:  1538.90 | Gear:   3
+Position:   135.94 | Speed:    18.81 | Acceleration:     0.00 | RPM:  1538.90 | Gear:   3
+Position:   145.35 | Speed:    18.81 | Acceleration:     0.00 | RPM:  1538.90 | Gear:   3
+Position:   154.75 | Speed:    18.81 | Acceleration:     0.00 | RPM:  1538.90 | Gear:   3
+Position:   164.15 | Speed:    18.81 | Acceleration:     0.00 | RPM:  1538.90 | Gear:   3
+Position:   173.56 | Speed:    18.81 | Acceleration:     0.00 | RPM:  1538.90 | Gear:   3
+Position:   182.96 | Speed:    18.81 | Acceleration:     0.00 | RPM:  1538.90 | Gear:   3
+Position:   192.37 | Speed:    18.81 | Acceleration:     0.00 | RPM:  1538.90 | Gear:   3
+Position:   201.77 | Speed:    18.81 | Acceleration:     0.00 | RPM:  1538.90 | Gear:   3
+Position:   211.18 | Speed:    18.81 | Acceleration:     0.00 | RPM:  1538.90 | Gear:   3
+Position:   220.58 | Speed:    18.81 | Acceleration:     0.00 | RPM:  1538.90 | Gear:   3
+Position:   229.98 | Speed:    18.81 | Acceleration:     0.00 | RPM:  1538.90 | Gear:   3
+Position:   239.39 | Speed:    18.81 | Acceleration:     0.00 | RPM:  1538.90 | Gear:   3
+Position:   248.79 | Speed:    18.81 | Acceleration:     0.00 | RPM:  1538.90 | Gear:   3
+Position:   258.20 | Speed:    18.81 | Acceleration:     0.00 | RPM:  1538.90 | Gear:   3
