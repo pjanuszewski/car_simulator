@@ -17,6 +17,9 @@ This C++ program simulates a basic car using a multi-threaded approach for simul
    - Press 'rb' to simulate releasing the brake pedal.
    - Press '1', '2', '3', '4', or '5' to set the gear to the corresponding value.
 
+3. **Simulation Results**
+View the results of the simulation in the `output.log` file. This file contains detailed information about the car's position, speed, acceleration, RPM, and gear at each time step of the simulation.
+
  **Requirements:**
    - Ensure you have a C++17 (or later) compiler installed.
 

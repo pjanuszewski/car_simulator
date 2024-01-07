@@ -1,8 +1,8 @@
 #include "Car.h"
 
-Car::Car() : position(std::make_shared<std::vector<double>>(1, 0.0)),
-    speed(std::make_shared<std::vector<double>>(1, 0.0)), 
-    acceleration(std::make_shared<std::vector<double>>(1, 0.0))
+Car::Car() : position(std::make_unique<std::vector<double>>(1, 0.0)),
+    speed(std::make_unique<std::vector<double>>(1, 0.0)), 
+    acceleration(std::make_unique<std::vector<double>>(1, 0.0))
 {
     // Make sure to fully construct the Car object before calling shared_from_this()
     //engine = std::make_shared<Engine>(shared_from_this(), gearBox->get_gear_ptr(), driver->get_gas_pedal_ptr(), driver->get_brake_pedal_ptr());

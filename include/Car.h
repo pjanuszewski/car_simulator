@@ -23,9 +23,9 @@ public:
     void update_speed();
 
 private:
-    std::shared_ptr<std::vector<double>> position;
-    std::shared_ptr<std::vector<double>> speed;
-    std::shared_ptr<std::vector<double>> acceleration;
+    std::unique_ptr<std::vector<double>> position;
+    std::unique_ptr<std::vector<double>> speed;
+    std::unique_ptr<std::vector<double>> acceleration;
 };
 
 #endif // CAR_H
